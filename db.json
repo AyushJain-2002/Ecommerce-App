@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Computers",
+      "price": "35000",
+      "image": "../src/assets/react.svg"
+    },
+    {
+      "id": "3",
+      "name": "Camera",
+      "price": "3000",
+      "image": "../src/assets/img.jpeg"
+    }
+  ]
+}
