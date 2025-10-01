@@ -1,5 +1,5 @@
   // src/pages/Admin.jsx
-  import React, { useState, useEffect ,useCallback} from "react";
+  import React, { useState, useEffect } from "react";
   import { useNavigate } from "react-router-dom";
   import { getProducts, createProduct, updateProduct, deleteProduct } from "../api/userapi.js";
 
